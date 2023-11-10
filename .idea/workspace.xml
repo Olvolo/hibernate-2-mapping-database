@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c85a4303-7012-4527-b2c8-1f94718d9a11" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2XwFP6DzUw052lxhyNbsgfdlUmH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/hibernate-2-demo/dump-hibernate-2.sql",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/hibernate-2-demo/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.1908046",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.javarush.domain" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.10" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="ea2e4464-af0f-4808-ac76-3ac50cacd966" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8283" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.Main" />
+      <module name="hibernate-2-map" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="hibernate-2-map" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="hibernate-2-map" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c85a4303-7012-4527-b2c8-1f94718d9a11" name="Changes" comment="" />
+      <created>1699532211166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699532211166</updated>
+      <workItem from="1699532212007" duration="1626000" />
+      <workItem from="1699533860004" duration="892000" />
+      <workItem from="1699551205359" duration="6178000" />
+      <workItem from="1699567692531" duration="5391000" />
+      <workItem from="1699607044218" duration="17787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="3efc01">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/com/javarush/dao/GenericDAO.java" />
+                </list>
+              </option>
+              <option name="id" value="3efc01" />
+              <option name="initiateTms" value="1699572537707" />
+              <option name="request" value="How to fix the following error:&#10;Unchecked cast: 'java.lang.Object' to 'T'" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To fix the error &quot;Unchecked cast: 'java.lang.Object' to 'T'&quot;, you can use a type parameter to specify the return type of the `update` method in the `GenericDAO` class.&#10;&#10;Here's the updated code:&#10;&#10;```java&#10;public T update(final T entity) {&#10;    return getCurrentSession().merge(entity);&#10;}&#10;```&#10;&#10;In the updated code, I have removed the explicit cast `(T)` and let the compiler infer the return type based on the type parameter `T`. This ensures that the return type of the `merge` method matches the type `T` and eliminates the unchecked cast error." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1699572540882" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/com/javarush/dao/GenericDAO.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="60732a">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/com/javarush/dao/GenericDAO.java" />
+                </list>
+              </option>
+              <option name="id" value="60732a" />
+              <option name="initiateTms" value="1699572425123" />
+              <option name="request" value="How to fix the following error:&#10;Raw use of parameterized class 'List'" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To fix the error &quot;Raw use of parameterized class 'List'&quot;, you need to specify the type parameter for the `List` class in the `getItems` method of the `GenericDAO` class.&#10;&#10;Here's the updated code:&#10;&#10;```java&#10;public List&lt;T&gt; getItems(int offset, int count) {&#10;    Query&lt;T&gt; query = getCurrentSession().createQuery(&quot; from &quot; + clazz.getName(), clazz);&#10;    query.setFirstResult(offset);&#10;    query.setMaxResults(count);&#10;    return query.getResultList();&#10;}&#10;```&#10;&#10;In the updated code, I have added the type parameter `&lt;T&gt;` to the `Query` class, which ensures that the `List` returned by the `getResultList` method is of type `List&lt;T&gt;`. This resolves the raw use of parameterized class error." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1699572428309" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/com/javarush/dao/GenericDAO.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="7c8bbf">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/com/javarush/Main.java" />
+                </list>
+              </option>
+              <option name="id" value="7c8bbf" />
+              <option name="initiateTms" value="1699572731388" />
+              <option name="request" value="How to fix the following error:&#10;Cannot resolve method 'findAny' in 'BaseStream'" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To fix the error &quot;Cannot resolve method 'findAny' in 'BaseStream'&quot;, you can use the `findFirst` method instead of `findAny` in the `newFilmWasMade` method.&#10;&#10;Here's the updated code:&#10;&#10;```java&#10;private void newFilmWasMade() {&#10;    try (Session session = sessionFactory.getCurrentSession()) {&#10;        session.beginTransaction();&#10;        Language language = languageDAO.getItems(0, 20).stream().unordered().findFirst().get();&#10;        List&lt;Category&gt; categories = categoryDAO.getItems(0, 5);&#10;        List&lt;Actor&gt; actors = actorDAO.getItems(0, 20);&#10;&#10;        Film film = new Film();&#10;        film.setActors(new HashSet&lt;&gt;(actors));&#10;        film.setRating(Rating.NC17);&#10;        film.setSpecialFeatures(Set.of(Features.TRAILERS, Features.COMMENTARIES));&#10;        film.setLength((short) 123);&#10;        film.setReplacementCost(BigDecimal.TEN);&#10;        film.setLanguage(language);&#10;        film.setDescription(&quot;A Intrepid Panorama of a Robot And a Boy who must Escape a Sumo Wrestler in Ancient China&quot;);&#10;        film.setTitle(&quot;AGENT TRUMAN&quot;);&#10;        film.setRentalDuration((byte) 2);&#10;        film.setOriginalLanguage(language);&#10;        film.setCategories(new HashSet&lt;&gt;(categories));&#10;        film.setYear(Year.now());&#10;        filmDAO.save(film);&#10;&#10;        FilmText filmText = new FilmText();&#10;        filmText.setFilm(film);&#10;        filmText.setId(film.getId());&#10;        filmText.setDescription(&quot;A Intrepid Panorama of a Robot And a Boy who must Escape a Sumo Wrestler in Ancient China&quot;);&#10;        filmText.setTitle(&quot;AGENT TRUMAN&quot;);&#10;        filmTextDAO.save(filmText);&#10;    }&#10;}&#10;```&#10;&#10;In the updated code, I have replaced `findAny` with `findFirst` when retrieving the `language` from the stream. This ensures that a specific element is returned from the stream and resolves the error." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1699572736577" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/com/javarush/Main.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
